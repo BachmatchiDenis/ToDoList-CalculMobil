@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="add_task">Add Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout">Logout</string>
+    <string name="sync">Sync</string>
+    <string name="all_tasks">All</string>
+    <string name="pending_tasks">Pending</string>
+    <string name="completed_tasks">Completed</string>
+    <string name="no_tasks">No tasks yet</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Description</string>
+    <string name="deadline">Deadline</string>
+    <string name="mark_completed">Mark as Completed</string>
+</resources>
